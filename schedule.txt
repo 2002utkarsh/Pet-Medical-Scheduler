@@ -1,0 +1,140 @@
+
+Hour = 0
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+TASKS :Prepare Food for fox
+TASKS :Feed : Slinky             Slinky     (7)
+TASKS :Clean Cage : Loner        Loner      (1)
+TASKS :Clean Cage : Biter        Biter      (2)
+TASKS :Clean Cage : Bitter       Bitter     (3)
+TASKS :Clean Cage : Pencil       Pencil     (4)
+
+Hour = 1
+
+TASKS :**Volunteer Needed**
+TASKS :CHECK*                    Loner      (1)
+TASKS :CHECK**                   Loner      (1)
+TASKS :Clean Cage : Eraser       Eraser     (5)
+TASKS :Clean Cage : Slinky       Slinky     (7)
+TASKS :Clean Cage : Spike        Spike      (8)
+
+Hour = 2
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+TASKS :Eyedrops                  Biter      (2)
+TASKS :Clean Cage : Boots        Boots      (13)
+
+Hour = 3
+
+TASKS :Clean Cage : Javelin      Javelin    (9)
+TASKS :Clean Cage : Gatekeeper   Gatekeeper (10)
+TASKS :Clean Cage : Sunshine     Sunshine   (11)
+TASKS :Clean Cage : Shadow       Shadow     (12)
+TASKS :Clean Cage : Spin         Spin       (14)
+TASKS :Clean Cage : Spot         Spot       (15)
+
+Hour = 4
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+
+Hour = 5
+
+
+Hour = 6
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+TASKS :Flush neck wound          Spike      (8)
+TASKS :Administer antibiotics    Spike      (8)
+
+Hour = 7
+
+TASKS :Give vitamin injection    Eraser     (5)
+
+Hour = 8
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+
+Hour = 9
+
+
+Hour = 10
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+
+Hour = 11
+
+
+Hour = 12
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+
+Hour = 13
+
+TASKS :Inspect broken leg        Biter      (2)
+TASKS :Give vitamin injection    Bitter     (3)
+TASKS :Give vitamin injection    Pencil     (4)
+TASKS :Inspect broken leg        Spin       (14)
+TASKS :Mange treatment           Spin       (14)
+TASKS :Mange treatment           Spot       (15)
+
+Hour = 14
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+
+Hour = 15
+
+TASKS :Apply burn ointment back  Shadow     (12)
+
+Hour = 16
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+
+Hour = 17
+
+
+Hour = 18
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+TASKS :Administer antibiotics    Spike      (8)
+
+Hour = 19
+
+TASKS :**Volunteer Needed**
+TASKS :Rebandage leg wound       Slinky     (7)
+TASKS :CHECK***                  Loner      (1)
+TASKS :CHECK***                  Loner      (1)
+
+Hour = 20
+
+TASKS :**Volunteer Needed**
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+TASKS :CHECK**                   Loner      (1)
+TASKS :Prepare Food for coyote
+TASKS :Feed : Loner              Loner      (1)
+TASKS :Feed : Biter              Biter      (2)
+TASKS :Feed : Bitter             Bitter     (3)
+TASKS :Feed : Pencil             Pencil     (4)
+TASKS :Feed : Eraser             Eraser     (5)
+TASKS :Feed : Boots              Boots      (13)
+TASKS :Feed : Spin               Spin       (14)
+TASKS :Feed : Spot               Spot       (15)
+
+Hour = 21
+
+TASKS :Feed : Spike              Spike      (8)
+TASKS :Feed : Javelin            Javelin    (9)
+TASKS :Feed : Gatekeeper         Gatekeeper (10)
+TASKS :Feed : Sunshine           Sunshine   (11)
+TASKS :Feed : Shadow             Shadow     (12)
+
+Hour = 22
+
+TASKS :Kit feeding               Annie, Oliver and Mowgli (6)
+TASKS :Eyedrops                  Loner      (1)
+
+Hour = 23
+
+TASKS :Eyedrops                  Javelin    (9)
+TASKS :Give vitamin injection    Gatekeeper (10)
+TASKS :Mange treatment           Sunshine   (11)
+TASKS :Give fluid injection      Boots      (13)
